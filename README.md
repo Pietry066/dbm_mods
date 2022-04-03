@@ -1,4 +1,4 @@
-**Jak wgrać mody do Discord Bot Maker?**
+❔ | **Jak wgrać mody do Discord Bot Maker?**
 
 `1` - Uruchom `Discord Bot Maker`,
 
@@ -8,6 +8,6 @@
 
 `4` - Jeśli pokże ci się informacja o podobnych plikach kliknij `Zamień pliki`,
 
-**Kontakt**
+📌 | **Kontakt**
 
 `Discord`: Piotrek#6969
